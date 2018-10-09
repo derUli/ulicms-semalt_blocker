@@ -1,0 +1,7 @@
+{
+	"id": "semalt_blocker",
+	"version": "1.3.21",
+	"description": "Self-updating PHP library which blocks referral spam from ruining your website statistics",
+	"categories": [],
+	"compatible_from": "2018.4"
+}
